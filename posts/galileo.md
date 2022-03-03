@@ -20,7 +20,7 @@ His plan instead was to slow down the overall free-falling motion by placing bal
 
 ### Calculating the Earth’s gravitational acceleration:
 
-Despite Galileo’s works, in the 1640s-50s, Giovanni Riccioli and Francesco Grimaldi conducted more investigations in Bologna. At the heart of their experiments was the use of time-keeping pendulums, which were more precise than the water clocks used by Galileo. Because of this, they not only verified Galileo’s discoveries, but also worked out the gravitational acceleration of the Earth to be around $9.36(±0.22) m/s^2$. This figure is only about 5% less than our current figure, which is around $9.81 m/s^2$.
+Despite Galileo’s works, in the 1640s-50s, Giovanni Riccioli and Francesco Grimaldi conducted more investigations in Bologna. At the heart of their experiments was the use of time-keeping pendulums, which were more precise than the water clocks used by Galileo. Because of this, they not only verified Galileo’s discoveries, but also worked out the gravitational acceleration of the Earth to be around `$9.36(±0.22) m/s^2$`. This figure is only about 5% less than our current figure, which is around `$9.81 m/s^2$`.
 
 ### The hammer and the feather:
 
@@ -28,6 +28,6 @@ In 1971, Apollo 15 astronaut David Scott recreated the famous free-fall experime
 
 ### Equations:
 
-If the gravitational acceleration of an object is represented by $g$, the height at which it is released from as $z_0$ and the time taken as $t$, then at any point of the free-fall, the height from the surface is equal to $z=z_0-\frac{1}{2}gt^2$. A body with mass $m$ at a height of $z_0$ also must possess gravitational potential energy, represented by $U$, where $U=mgz_0$.
+If the gravitational acceleration of an object is represented by `$g$`, the height at which it is released from as `$z_0$` and the time taken as `$t$`, then at any point of the free-fall, the height from the surface is equal to `$z=z_0-\frac{1}{2}gt^2$`. A body with mass `$m$` at a height of `$z_0$` also must possess gravitational potential energy, represented by `$U$`, where `$U=mgz_0$`.
 
 > In questions of science, the authority of a thousand is not worth the humble reasoning of a single individual. - Galileo Galilei

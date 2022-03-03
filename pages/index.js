@@ -8,7 +8,9 @@ export default function Home({ posts }) {
   console.log(posts);
 
   return (
-    <div className="mx-auto w-full max-w-4xl bg-red-100 px-8 pt-16">
+    <div className="mx-auto w-full max-w-4xl px-8 pt-16">
+      <h1 className="text-3xl font-semibold leading-8">All Articles:</h1>
+      <hr className="my-4 border-0 border-b-2 border-gray-200" />
       {posts.map((post, index) => (
         <Post key={index} post={post} />
       ))}

@@ -1,9 +1,9 @@
-import Link from "next/link";
+// import Link from "next/link";
 import ArticleIcon from "../icons/article-icon.svg";
 
 export default function Post({ post }) {
   return (
-    <Link href={`/posts/${post.frontmatter.link}`}>
+    <a href={`/posts/${post.frontmatter.link}`}>
       <div className="flex h-16 w-full items-center gap-2 rounded-lg border-2 border-gray-200 bg-white px-2 transition-colors hover:border-gray-500">
         <div className="h-12">
           <ArticleIcon />
@@ -18,6 +18,6 @@ export default function Post({ post }) {
           </p>
         </div>
       </div>
-    </Link>
+    </a>
   );
 }
